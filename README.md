@@ -1,8 +1,6 @@
 # PingPong
 Full-Stack Chat application using MERN Stack and Socket.io
 
-[Visit Now](https://instagramernstack.herokuapp.com/) 🚀
-
 ## 🖥️ Tech Stack
 **Frontend:**
 
